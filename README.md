@@ -6,8 +6,8 @@
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I exist
 - Figure it out...
-  Hint: Overcomplication dictionary usation, pythons dance to each chars position, but still 64 remains the base of most computers, negatives do not belong to 
-  natural numbers.
+  Hint: Overcomplication dictionary usation, pythons dance to each chars position, negatives do not belong to 
+  natural numbers. But still 64 remains the base of most computers, out of it an image shall arise.
   File: https://raw.githubusercontent.com/da-doodoo/da-doodoo/main/Figure%20It%20Out.txt
   
   
